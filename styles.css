@@ -1,0 +1,13 @@
+button{
+    width:200px;
+    color:red;
+    height:30px;
+    font-size: 25px;
+    background-color:blue; 
+}
+html{
+     text-align: center; 
+}
+body {
+   background-image: url("http://www.twitrcovers.com/wp-content/uploads/2012/12/Harry-Potter-l.jpg");
+}
